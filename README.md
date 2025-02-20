@@ -1,6 +1,9 @@
-<br clear="both">
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJseWQ2NHBzc29raXFlZGZocGgxcDN0cnRmOWttOXV2cnhjZ2E5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif"  />
+  <h2 align="center" style="color: white;">Hi 👋! My name is Gurwinder Parhar<br>I'm a Front-End Developer | Technical Content Writer</h2>
+</div>
 
-<h2 align="center">Hi 👋! My name is Gurwinder <br>I'm a Front-End Develop | Technical Content Writer</h2>
+<br clear="both">
 
 ###
 
@@ -39,7 +42,6 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/gurwinder-parhar/" target="0_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-  <a href="gurwinderanusurja@gmail.com" target="0_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
   <a href="https://www.instagram.com/_suraj_parhar_21/" target="0_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
   <a href="https://www.facebook.com/profile.php?id=100028327630339" target="0_blank"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  /></a>
 </div>
