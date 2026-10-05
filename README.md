@@ -25,10 +25,19 @@
 <div align="center">
 
 <img height="180em"
-src="https://github-readme-stats-sigma-five.vercel.app/api?username=Surjaa&show_icons=true&theme=tokyonight"/>
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Surjaa&theme=tokyonight"/>
 
 <img height="180em"
-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Surjaa&layout=compact&theme=tokyonight"/>
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Surjaa&theme=tokyonight"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Surjaa&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Surjaa&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
