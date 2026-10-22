@@ -13,7 +13,6 @@
 ## 🚀 About Me
 
 - 🔭 Front-End Developer
-- ✍️ Technical Content Writer
 - 🌱 Currently learning advanced web technologies
 - 🎯 Passionate about creating user-friendly interfaces
 - 💡 Interested in UI/UX Design and Modern Web Development
